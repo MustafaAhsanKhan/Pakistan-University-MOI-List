@@ -1,6 +1,4 @@
-#!/bin/sh
-'''exec' "/Users/mustafa/Library/CloudStorage/OneDrive-FASTNationalUniversity/University MOI List/.venv/bin/python3.11" "$0" "$@"
-' '''
+#!/Users/mustafa/Library/CloudStorage/OneDrive-FASTNationalUniversity/Pakistan-University-MOI-List/.venv/bin/python3.11
 import sys
 from charset_normalizer.cli import cli_detect
 if __name__ == '__main__':
